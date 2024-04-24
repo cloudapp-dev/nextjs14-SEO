@@ -21,7 +21,7 @@ NEXT_PUBLIC_BASE_URL=xxxx
 
 import data to your contentful space
 
-Check tutorial -> https://www.cloudapp.dev/nextjs14-complete-example-header-footer-tailwindcss-contentful-part3
+Check tutorial -> https://www.cloudapp.dev/improving-your-website-visibility-the-importance-of-nextjs-seo
 
 Check example website -> https://nextjs14-seo.vercel.app/
 
