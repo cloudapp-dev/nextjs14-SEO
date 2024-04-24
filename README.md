@@ -28,7 +28,7 @@ NEXT_PUBLIC_ALGOLIA_INDEX_NAME=xxxx
 
 import data to your contentful space
 
-Check tutorial -> https://medium.com/@cloudapp_dev/algolia-next-js-14-easy-integration-as-on-site-search-at-no-cost-4d0b785559b3
+Check tutorial -> https://www.cloudapp.dev/algolia-and-nextjs-14-easy-integration-as-on-site-search-at-no-cost
 
 Check example website -> https://nextjs14-algolia-search.vercel.app/
 
